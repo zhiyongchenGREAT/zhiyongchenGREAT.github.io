@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhiyong Chen / Mr. (M.Eng.)"
+title                    : "Zhiyong Chen"
 title_separator          : "-"
 name                     : &name "Zhiyong Chen"
 description              : &description "PhD Student"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "my_profile.png"
   name             : "Zhiyong Chen"
-  pronouns         : "Mr."  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "Mr./M.Eng."  
+  bio              : "PhD Student"
   location         : "Shanghai China"
   employer         : "Shanghai University"
   uri              : "https://zhiyongchenGREAT.github.io "
