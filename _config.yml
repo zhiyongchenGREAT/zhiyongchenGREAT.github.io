@@ -25,18 +25,18 @@ author:
   name             : "Zhiyong Chen"
   pronouns         : "Mr./M.Eng."  
   bio              : "PhD Student"
-  location         : "Shanghai China"
-  employer         : "Shanghai University"
-  uri              : "https://zhiyongchenGREAT.github.io "
-  email            : "zhiyongchen@shu.edu.cn" 
+  location         : "Shanghai, China"
+  employer         : "Shanghai University(zhiyongchen@shu.edu.cn)"
+  # uri              : "https://zhiyongchenGREAT.github.io "
+  # email            : "zhiyongchen@shu.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
+  # googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # impactstory      : # URL
+  # orcid            : "http://orcid.org/0000-0002-9629-6111"
+  # pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Zhiyong-Chen-27"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
