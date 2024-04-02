@@ -48,7 +48,13 @@ Publications
 ------
 *Learning domain-heterogeneous speaker recognition systems with personalized continual federated learning*, EURASIP Journal on Audio Speech and Music Processing. **Zhiyong Chen**, Shugong Xu
 
-*Optimizing Feature Fusion for Improved Zero-shot Adaptation in Text-to-Speech Synthesis*, EURASIP Journal on Audio Speech and Music Processing. **Zhiyong Chen**, Zhiqi Ai, Xinnuo Li, Shugong Xu
+*Optimizing Feature Fusion for Improved Zero-shot Adaptation in Text-to-Speech Synthesis*, EURASIP Journal on Audio Speech and Music Processing. **Zhiyong Chen**, Zhiqi Ai, Xinnuo Li, Shugong Xu (Publishing)
+
+*Enhancing Open-Set Speaker Identification through Rapid Tuning with Speaker Reciprocal Points and Negative Samples*, Interspeech24. **Zhiyong Chen**, Zhiqi Ai, Xinnuo Li, Shugong Xu (Just submitted)
+
+*Personalized User-Defined Keyword Spotting in Household Environments: A Text-Audio Multi-Modality Approach*, Speech Communication. Zhiqi Ai, **Zhiyong Chen**, Xinnuo Li, Shugong Xu (Just submitted)
+
+*Optimizing Feature Fusion for Improved Zero-shot Adaptation in Text-to-Speech Synthesis*, EURASIP Journal on Audio Speech and Music Processing. Zhiqi Ai, **Zhiyong Chen**, Xinnuo Li, Shugong Xu
 
 *Supervised Imbalanced Multi-domain Adaptation for Text-independent Speaker Verification*, 2020 9th International Conference on Computing and Pattern Recognition. **Zhiyong Chen**, Zongze Ren, Shugong Xu
 
