@@ -23,17 +23,24 @@ A primary challenge in VC is maintaining speech quality and speaker similarity w
 
 [demo](https://great-research.github.io/tsct-tts-demo/) 
 
+[paper](https://github.com/zhiyongchenGREAT/zhiyongchenGREAT.github.io/files/Efficient_Speaker_Feature_Fusion_Module_for_Few_Shot_Voice_Cloning_System__EURASIP_version_submit2_.pdf)
+
 **Personalized User-Defined Keyword Spotting and Open-set Speaker Identification in Household Environments**
 
 We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipeline specifically designed for enhancing household environments by integrating user-defined keyword spotting (KWS) with open-set speaker identification (SID) into a cascading dual sub-system structure. For KWS, we present multi-modal user-defined keyword spotting (M-UDKWS), a novel approach that leverages multi-modal prompts for text-audio multimodal enrollment, and optimizes phonetic and semantic feature extraction to synergize text and audio modalities. This innovation not only stabilizes detection by reducing mismatches between query audio and support text embeddings but also excels in handling potentially confusing keywords. For open-set SID, we adopt advanced open-set learning techniques to propose speaker reciprocal points learning (SRPL), addressing the significant challenge of being aware of unknown speakers without compromising known speaker identification. To boost the overall performance of the PUKWS pipeline, we employ a cutting-edge data augmentation strategy that includes hard negative mining, rule-based procedures, GPT, and zero-shot voice cloning, thereby enhancing both M-UDKWS and SRPL components. Through exhaustive evaluations on various datasets and testing scenarios, we demonstrate the efficacy of our methods.
 
+[paper1](https://github.com/zhiyongchenGREAT/zhiyongchenGREAT.github.io/files/Personlized_UDKWS202401.pdf)
+
+[paper2](https://github.com/zhiyongchenGREAT/zhiyongchenGREAT.github.io/files/SRPL_IS24.pdf)
+
 [project web](https://srplplus.github.io) 
+
 
 **Learning Domain-Heterogeneous Speaker Recognition Systems with Personalized Continual Federated Learning**
 
 Speaker recognition, the process of automatically identifying a speaker based on individual characteristics in speech signals, presents significant challenges when addressing heterogeneous-domain conditions. Federated learning, a recent development in machine learning methods, has gained traction in privacy-sensitive tasks, such as personal voice assistants in home environments. However, its application in heterogeneous multi-domain scenarios for enhancing system customization remains underexplored. In this paper, we propose the utilization of federated learning in heterogeneous situations to enable adaptation across multiple domains. We also introduce a personalized federated learning algorithm designed to effectively leverage limited domain data, resulting in improved learning outcomes. Furthermore, we present a strategy for implementing the federated learning algorithm in practical, real-world continual learning scenarios, demonstrating promising results. The proposed federated learning method exhibits superior performance across a range of synthesized complex conditions and continual learning settings, compared to conventional training methods.
 
-[Paper](https://www.researchgate.net/publication/373662029_Learning_domain-heterogeneous_speaker_recognition_systems_with_personalized_continual_federated_learning?_sg%5B0%5D=43-K3LWAxCSFjZrBveX791c3jDOY1VA-tKZeB6a7bbfQtKtjbrHf_s8AOuO4LeErQ_KHunyAwBHDVukJFG240Ms8uGNvcRGK1pqaBIkR.gWeaxvB1PWhLYGLEr1B7KCSCU1MPR-nfYWiMhQpj7QQu6T2LobEDMOtS-CxRpc64KQ4xqiKQnAoJqoXt997lfQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19) 
+[Paper](https://github.com/zhiyongchenGREAT/zhiyongchenGREAT.github.io/files/Learning_Domain_Heterogeneous_Speaker_Recognition_Systems_with_Personalized_Continual_Federated_Learning__submission_R2_.pdf) 
 
 [Opensource Code](https://github.com/zhiyongchenGREAT/FedSPK) 
 
