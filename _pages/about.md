@@ -19,7 +19,7 @@ My Active Research Projects
 
 A primary challenge in VC is maintaining speech quality and speaker similarity with limited reference data for a specific speaker. However, existing VC systems often rely on naive combinations of embedded speaker vectors for speaker control, which compromises the capture of speaking style, voice print, and semantic accuracy. To overcome this, we introduce the Two-branch Speaker Control Module (TSCM), an novel and highly adaptable voice cloning module designed to precisely processing speaker or style control for a target speaker. Our method uses an advanced fusion of local-level features from a Gated Convolutional Network (GCN) and utterance-level features from a Gated Recurrent Unit (GRU) to enhance speaker control. We demonstrate the effectiveness of TSCM by integrating it into advanced TTS systems like FastSpeech 2 and VITS architectures, significantly optimizing their performance. Experimental results show that TSCM enables accurate voice cloning for a target speaker with minimal data through both zero-shot or few-shot fine-tuning of pre-trained TTS models. Furthermore, our TSCM based VITS (TSCM-VITS) showcases superior performance in zero-shot scenarios compared to existing state-of-the-art VC systems, even with basic dataset configurations. Our method's superiority is validated through comprehensive subjective and objective evaluations.
 
-[demo](https://great-research.github.io/tsct-tts-demo/) 
+[Project Website](https://great-research.github.io/tsct-tts-demo/) 
 
 [Research paper: TSCM-VITS](http://zhiyongchenGREAT.github.io/files/13636_2024_351_Author.pdf)
 
@@ -27,7 +27,7 @@ A primary challenge in VC is maintaining speech quality and speaker similarity w
 
 We introduce StyleFusion-TTS, a prompt and/or audio ref- erenced, style- and speaker-controllable, zero-shot text-to-speech (TTS) synthesis system designed to enhance the editability and naturalness of current research literature. We propose a general front-end encoder as a compact and effective module to utilize multimodal inputs—including text prompts, audio references, and speaker timbre references—in a fully zero-shot manner and produce disentangled style and speaker control embeddings. Our novel approach also leverages a hierarchical conformer structure for the fusion of style and speaker control embeddings, aiming to achieve optimal feature fusion within the current advanced TTS ar- chitecture. StyleFusion-TTS is evaluated through multiple metrics, both subjectively and objectively. The system shows promising performance across our evaluations, suggesting its potential to contribute to the ad- vancement of the field of zero-shot text-to-speech synthesis. 
 
-[demo](https://srplplus.github.io/StyleFusionTTS-demo/) 
+[Project Website](https://srplplus.github.io/StyleFusionTTS-demo/) 
 
 [Research paper: StyleFusion](http://zhiyongchenGREAT.github.io/files/StyleFusionTTS_PRCV24-10.pdf)
 
@@ -43,7 +43,7 @@ We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipelin
 
 [Research paper: Open-set Speaker Recognition](http://zhiyongchenGREAT.github.io/files/SRPL_IS24.pdf)
 
-[SRPL: project web](https://srplplus.github.io) 
+[SRPL: Project Website](https://srplplus.github.io) 
 
 
 **Learning Domain-Heterogeneous Speaker Recognition Systems with Personalized Continual Federated Learning**
@@ -52,7 +52,7 @@ Speaker recognition, the process of automatically identifying a speaker based on
 
 [Research paper: FedSpeaker](http://zhiyongchenGREAT.github.io/files/FedSpk.pdf) 
 
-[Opensource Code](https://github.com/zhiyongchenGREAT/FedSPK) 
+[FedSPK: Project Website](https://github.com/zhiyongchenGREAT/FedSPK) 
 
 Publications
 ------
