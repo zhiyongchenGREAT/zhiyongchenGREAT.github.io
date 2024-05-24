@@ -25,7 +25,7 @@ A primary challenge in VC is maintaining speech quality and speaker similarity w
 
 [paper](https://github.com/zhiyongchenGREAT/zhiyongchenGREAT.github.io/blob/master/files/Efficient_Speaker_Feature_Fusion_Module_for_Few_Shot_Voice_Cloning_System__EURASIP_version_submit2_.pdf)
 
-[paper](http://academicpages.github.io/files/Efficient_Speaker_Feature_Fusion_Module_for_Few_Shot_Voice_Cloning_System__EURASIP_version_submit2_.pdf）
+[paper](http://academicpages.github.io/files/Efficient_Speaker_Feature_Fusion_Module_for_Few_Shot_Voice_Cloning_System__EURASIP_version_submit2_.pdf)
 
 **Personalized User-Defined Keyword Spotting and Open-set Speaker Identification in Household Environments**
 
