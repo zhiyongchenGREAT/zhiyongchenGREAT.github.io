@@ -20,7 +20,7 @@ My Active Research Projects
 A primary challenge in VC is maintaining speech quality and speaker similarity with limited reference data for a specific speaker. However, existing VC systems often rely on naive combinations of embedded speaker vectors for speaker control, which compromises the capture of speaking style, voice print, and semantic accuracy. To overcome this, we introduce the Two-branch Speaker Control Module (TSCM), an novel and highly adaptable voice cloning module designed to precisely processing speaker or style control for a target speaker. Our method uses an advanced fusion of local-level features from a Gated Convolutional Network (GCN) and utterance-level features from a Gated Recurrent Unit (GRU) to enhance speaker control. We demonstrate the effectiveness of TSCM by integrating it into advanced TTS systems like FastSpeech 2 and VITS architectures, significantly optimizing their performance. Experimental results show that TSCM enables accurate voice cloning for a target speaker with minimal data through both zero-shot or few-shot fine-tuning of pre-trained TTS models. Furthermore, our TSCM based VITS (TSCM-VITS) showcases superior performance in zero-shot scenarios compared to existing state-of-the-art VC systems, even with basic dataset configurations. Our method's superiority is validated through comprehensive subjective and objective evaluations.
 
 <p align="center">
-  <img src="http://zhiyongchenGREAT.github.io/images/500x300.png" alt="SRPL+ Process" width="50%" />
+  <img src="http://zhiyongchenGREAT.github.io/images/tscm.png" alt="TSCM" width="50%" />
 </p>
 
 [Project Website](https://great-research.github.io/tsct-tts-demo/) 
@@ -31,6 +31,10 @@ A primary challenge in VC is maintaining speech quality and speaker similarity w
 
 We introduce StyleFusion-TTS, a prompt and/or audio ref- erenced, style- and speaker-controllable, zero-shot text-to-speech (TTS) synthesis system designed to enhance the editability and naturalness of current research literature. We propose a general front-end encoder as a compact and effective module to utilize multimodal inputs—including text prompts, audio references, and speaker timbre references—in a fully zero-shot manner and produce disentangled style and speaker control embeddings. Our novel approach also leverages a hierarchical conformer structure for the fusion of style and speaker control embeddings, aiming to achieve optimal feature fusion within the current advanced TTS ar- chitecture. StyleFusion-TTS is evaluated through multiple metrics, both subjectively and objectively. The system shows promising performance across our evaluations, suggesting its potential to contribute to the ad- vancement of the field of zero-shot text-to-speech synthesis. 
 
+<p align="center">
+  <img src="http://zhiyongchenGREAT.github.io/images/style_fusion.png" alt="style_fusion" width="50%" />
+</p>
+
 [Project Website](https://srplplus.github.io/StyleFusionTTS-demo/) 
 
 [Research paper: StyleFusion](http://zhiyongchenGREAT.github.io/files/StyleFusionTTS_PRCV24-10.pdf)
@@ -39,11 +43,19 @@ We introduce StyleFusion-TTS, a prompt and/or audio ref- erenced, style- and spe
 
 We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipeline specifically designed for enhancing household environments by integrating user-defined keyword spotting (KWS) with open-set speaker identification (SID) into a cascading dual sub-system structure. For KWS, we present multi-modal user-defined keyword spotting (M-UDKWS), a novel approach that leverages multi-modal prompts for text-audio multimodal enrollment, and optimizes phonetic and semantic feature extraction to synergize text and audio modalities. This innovation not only stabilizes detection by reducing mismatches between query audio and support text embeddings but also excels in handling potentially confusing keywords. For open-set SID, we adopt advanced open-set learning techniques to propose speaker reciprocal points learning (SRPL), addressing the significant challenge of being aware of unknown speakers without compromising known speaker identification. To boost the overall performance of the PUKWS pipeline, we employ a cutting-edge data augmentation strategy that includes hard negative mining, rule-based procedures, GPT, and zero-shot voice cloning, thereby enhancing both M-UDKWS and SRPL components. Through exhaustive evaluations on various datasets and testing scenarios, we demonstrate the efficacy of our methods.
 
+<p align="center">
+  <img src="http://zhiyongchenGREAT.github.io/images/pukws.png" alt="pukws" width="50%" />
+</p>
+
 [Research paper: PUKWS](http://zhiyongchenGREAT.github.io/files/Personlized_UDKWS202401.pdf)
 
 **SRPL: Open-set Speaker Identification with Reciprocal Points**
 
 We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipeline specifically designed for enhancing household environments by integrating user-defined keyword spotting (KWS) with open-set speaker identification (SID) into a cascading dual sub-system structure. For KWS, we present multi-modal user-defined keyword spotting (M-UDKWS), a novel approach that leverages multi-modal prompts for text-audio multimodal enrollment, and optimizes phonetic and semantic feature extraction to synergize text and audio modalities. This innovation not only stabilizes detection by reducing mismatches between query audio and support text embeddings but also excels in handling potentially confusing keywords. For open-set SID, we adopt advanced open-set learning techniques to propose speaker reciprocal points learning (SRPL), addressing the significant challenge of being aware of unknown speakers without compromising known speaker identification. To boost the overall performance of the PUKWS pipeline, we employ a cutting-edge data augmentation strategy that includes hard negative mining, rule-based procedures, GPT, and zero-shot voice cloning, thereby enhancing both M-UDKWS and SRPL components. Through exhaustive evaluations on various datasets and testing scenarios, we demonstrate the efficacy of our methods.
+
+<p align="center">
+  <img src="http://zhiyongchenGREAT.github.io/images/srpl.png" alt="srpl" width="50%" />
+</p>
 
 [Research paper: Open-set Speaker Recognition](http://zhiyongchenGREAT.github.io/files/SRPL_IS24.pdf)
 
@@ -53,6 +65,10 @@ We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipelin
 **Learning Domain-Heterogeneous Speaker Recognition Systems with Personalized Continual Federated Learning**
 
 Speaker recognition, the process of automatically identifying a speaker based on individual characteristics in speech signals, presents significant challenges when addressing heterogeneous-domain conditions. Federated learning, a recent development in machine learning methods, has gained traction in privacy-sensitive tasks, such as personal voice assistants in home environments. However, its application in heterogeneous multi-domain scenarios for enhancing system customization remains underexplored. In this paper, we propose the utilization of federated learning in heterogeneous situations to enable adaptation across multiple domains. We also introduce a personalized federated learning algorithm designed to effectively leverage limited domain data, resulting in improved learning outcomes. Furthermore, we present a strategy for implementing the federated learning algorithm in practical, real-world continual learning scenarios, demonstrating promising results. The proposed federated learning method exhibits superior performance across a range of synthesized complex conditions and continual learning settings, compared to conventional training methods.
+
+<p align="center">
+  <img src="http://zhiyongchenGREAT.github.io/images/fedspk.png" alt="fedspk" width="50%" />
+</p>
 
 [Research paper: FedSpeaker](http://zhiyongchenGREAT.github.io/files/FedSpk.pdf) 
 
