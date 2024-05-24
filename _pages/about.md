@@ -23,26 +23,28 @@ A primary challenge in VC is maintaining speech quality and speaker similarity w
 
 [demo](https://great-research.github.io/tsct-tts-demo/) 
 
-[paper](https://github.com/zhiyongchenGREAT/zhiyongchenGREAT.github.io/blob/master/files/Efficient_Speaker_Feature_Fusion_Module_for_Few_Shot_Voice_Cloning_System__EURASIP_version_submit2_.pdf)
+[Research paper: TSCM-VITS](http://zhiyongchenGREAT.github.io/files/13636_2024_351_Author.pdf)
 
-[paper](http://zhiyongchenGREAT.github.io/files/Efficient_Speaker_Feature_Fusion_Module_for_Few_Shot_Voice_Cloning_System__EURASIP_version_submit2_.pdf)
-
-**Personalized User-Defined Keyword Spotting and Open-set Speaker Identification in Household Environments**
+**PUKWS: Personalized User-Defined Keyword Spotting and Open-set Speaker Identification in Household Environments**
 
 We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipeline specifically designed for enhancing household environments by integrating user-defined keyword spotting (KWS) with open-set speaker identification (SID) into a cascading dual sub-system structure. For KWS, we present multi-modal user-defined keyword spotting (M-UDKWS), a novel approach that leverages multi-modal prompts for text-audio multimodal enrollment, and optimizes phonetic and semantic feature extraction to synergize text and audio modalities. This innovation not only stabilizes detection by reducing mismatches between query audio and support text embeddings but also excels in handling potentially confusing keywords. For open-set SID, we adopt advanced open-set learning techniques to propose speaker reciprocal points learning (SRPL), addressing the significant challenge of being aware of unknown speakers without compromising known speaker identification. To boost the overall performance of the PUKWS pipeline, we employ a cutting-edge data augmentation strategy that includes hard negative mining, rule-based procedures, GPT, and zero-shot voice cloning, thereby enhancing both M-UDKWS and SRPL components. Through exhaustive evaluations on various datasets and testing scenarios, we demonstrate the efficacy of our methods.
 
-[paper1](https://github.com/zhiyongchenGREAT/zhiyongchenGREAT.github.io/blob/master/files/Personlized_UDKWS202401.pdf)
+[Research paper: PUKWS](http://zhiyongchenGREAT.github.io/files/Personlized_UDKWS202401.pdf)
 
-[paper2](https://github.com/zhiyongchenGREAT/zhiyongchenGREAT.github.io/blob/master/files/SRPL_IS24.pdf)
+**SRPL: Open-set Speaker Identification with Reciprocal Points**
 
-[project web](https://srplplus.github.io) 
+We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipeline specifically designed for enhancing household environments by integrating user-defined keyword spotting (KWS) with open-set speaker identification (SID) into a cascading dual sub-system structure. For KWS, we present multi-modal user-defined keyword spotting (M-UDKWS), a novel approach that leverages multi-modal prompts for text-audio multimodal enrollment, and optimizes phonetic and semantic feature extraction to synergize text and audio modalities. This innovation not only stabilizes detection by reducing mismatches between query audio and support text embeddings but also excels in handling potentially confusing keywords. For open-set SID, we adopt advanced open-set learning techniques to propose speaker reciprocal points learning (SRPL), addressing the significant challenge of being aware of unknown speakers without compromising known speaker identification. To boost the overall performance of the PUKWS pipeline, we employ a cutting-edge data augmentation strategy that includes hard negative mining, rule-based procedures, GPT, and zero-shot voice cloning, thereby enhancing both M-UDKWS and SRPL components. Through exhaustive evaluations on various datasets and testing scenarios, we demonstrate the efficacy of our methods.
+
+[Research paper: Open-set Speaker Recognition](http://zhiyongchenGREAT.github.io/files/SRPL_IS24.pdf)
+
+[SRPL: project web](https://srplplus.github.io) 
 
 
 **Learning Domain-Heterogeneous Speaker Recognition Systems with Personalized Continual Federated Learning**
 
 Speaker recognition, the process of automatically identifying a speaker based on individual characteristics in speech signals, presents significant challenges when addressing heterogeneous-domain conditions. Federated learning, a recent development in machine learning methods, has gained traction in privacy-sensitive tasks, such as personal voice assistants in home environments. However, its application in heterogeneous multi-domain scenarios for enhancing system customization remains underexplored. In this paper, we propose the utilization of federated learning in heterogeneous situations to enable adaptation across multiple domains. We also introduce a personalized federated learning algorithm designed to effectively leverage limited domain data, resulting in improved learning outcomes. Furthermore, we present a strategy for implementing the federated learning algorithm in practical, real-world continual learning scenarios, demonstrating promising results. The proposed federated learning method exhibits superior performance across a range of synthesized complex conditions and continual learning settings, compared to conventional training methods.
 
-[Paper](https://github.com/zhiyongchenGREAT/zhiyongchenGREAT.github.io/blob/master/files/Learning_Domain_Heterogeneous_Speaker_Recognition_Systems_with_Personalized_Continual_Federated_Learning__submission_R2_.pdf) 
+[Research paper: FedSpeaker](http://zhiyongchenGREAT.github.io/files/FedSpk.pdf) 
 
 [Opensource Code](https://github.com/zhiyongchenGREAT/FedSPK) 
 
@@ -50,11 +52,11 @@ Publications
 ------
 *Learning domain-heterogeneous speaker recognition systems with personalized continual federated learning*, EURASIP Journal on Audio Speech and Music Processing. **Zhiyong Chen**, Shugong Xu
 
-*Optimizing Feature Fusion for Improved Zero-shot Adaptation in Text-to-Speech Synthesis*, EURASIP Journal on Audio Speech and Music Processing. **Zhiyong Chen**, Zhiqi Ai, Xinnuo Li, Shugong Xu (Publishing)
+*Optimizing Feature Fusion for Improved Zero-shot Adaptation in Text-to-Speech Synthesis*, EURASIP Journal on Audio Speech and Music Processing. **Zhiyong Chen**, Zhiqi Ai, Xinnuo Li, Shugong Xu
 
-*Enhancing Open-Set Speaker Identification through Rapid Tuning with Speaker Reciprocal Points and Negative Samples*, Interspeech24. **Zhiyong Chen**, Zhiqi Ai, Xinnuo Li, Shugong Xu (Just submitted)
+*Enhancing Open-Set Speaker Identification through Rapid Tuning with Speaker Reciprocal Points and Negative Samples*, Interspeech24. **Zhiyong Chen**, Zhiqi Ai, Xinnuo Li, Shugong Xu (In Peer Review)
 
-*Personalized User-Defined Keyword Spotting in Household Environments: A Text-Audio Multi-Modality Approach*, Speech Communication. Zhiqi Ai, **Zhiyong Chen**, Xinnuo Li, Shugong Xu (Just submitted)
+*Personalized User-Defined Keyword Spotting in Household Environments: A Text-Audio Multi-Modality Approach*, Speech Communication. Zhiqi Ai, **Zhiyong Chen**, Xinnuo Li, Shugong Xu (In Peer Review)
 
 *Optimizing Feature Fusion for Improved Zero-shot Adaptation in Text-to-Speech Synthesis*, EURASIP Journal on Audio Speech and Music Processing. Zhiqi Ai, **Zhiyong Chen**, Xinnuo Li, Shugong Xu
 
