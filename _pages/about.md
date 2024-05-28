@@ -25,7 +25,7 @@ A primary challenge in VC is maintaining speech quality and speaker similarity w
 
 [Project Website](https://great-research.github.io/tsct-tts-demo/) 
 
-[Research paper: TSCM-VITS](http://zhiyongchenGREAT.github.io/files/13636_2024_351_Author.pdf)
+[Research paper: TSCM-VITS](http://zhiyongchenGREAT.github.io/files/s13636-024-00351-9.pdf)
 
 **Emotional Style Control TTS: StyleFusion TTS--Multimodal Style-control and Enhanced Feature Fusion for Zero-shot Text-to-speech Synthesis**
 
