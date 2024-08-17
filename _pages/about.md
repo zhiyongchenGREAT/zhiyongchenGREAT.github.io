@@ -57,8 +57,9 @@ We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipelin
   <img src="http://zhiyongchenGREAT.github.io/images/mmkws.png" alt="mmkws" width="50%" />
 </p>
 
-[Research paper: MM-KWS](http://zhiyongchenGREAT.github.io/files/StyleTTS_PRCV24-11.pdf)
-[Project Codebase](https://github.com/zhiyongchenGREAT/MM-KWS)
+[Research paper: MM-KWS](http://zhiyongchenGREAT.github.io/files/2406.07310v1.pdf)
+
+[MM-KWS: Project Web-site](https://github.com/zhiyongchenGREAT/MM-KWS)
 
 **SRPL: Open-set Speaker Identification with Reciprocal Points**
 
