@@ -51,7 +51,8 @@ We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipelin
 
 **MM-KWS: Multi-modal Prompts for Multilingual User-defined Keyword Spotting**
 
-We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipeline specifically designed for enhancing household environments by integrating user-defined keyword spotting (KWS) with open-set speaker identification (SID) into a cascading dual sub-system structure. For KWS, we present multi-modal user-defined keyword spotting (M-UDKWS), a novel approach that leverages multi-modal prompts for text-audio multimodal enrollment, and optimizes phonetic and semantic feature extraction to synergize text and audio modalities. This innovation not only stabilizes detection by reducing mismatches between query audio and support text embeddings but also excels in handling potentially confusing keywords. For open-set SID, we adopt advanced open-set learning techniques to propose speaker reciprocal points learning (SRPL), addressing the significant challenge of being aware of unknown speakers without compromising known speaker identification. To boost the overall performance of the PUKWS pipeline, we employ a cutting-edge data augmentation strategy that includes hard negative mining, rule-based procedures, GPT, and zero-shot voice cloning, thereby enhancing both M-UDKWS and SRPL components. Through exhaustive evaluations on various datasets and testing scenarios, we demonstrate the efficacy of our methods.
+In this paper, we propose MM-KWS, a novel approach to user-defined keyword spotting leveraging multi-modal enrollments of text and speech templates. Unlike previous meth- ods that focus solely on either text or speech features, MM-KWS extracts phoneme, text, and speech embeddings from both modalities. These embeddings are then compared with the query speech embedding to detect the target keywords. To ensure the applicability of MM-KWS across diverse languages, we utilize a feature extractor incorporating several multilingual pre-trained models. Subsequently, we validate its effectiveness on Mandarin and English tasks. In addition, we have integrated advanced data augmentation tools for hard case mining to en- hance MM-KWS in distinguishing confusable words. Experimental results on the LibriPhrase and WenetPhrase datasets demonstrate that MM-KWS outperforms prior methods significantly.
+
 
 <p align="center">
   <img src="http://zhiyongchenGREAT.github.io/images/mmkws.png" alt="mmkws" width="50%" />
@@ -59,7 +60,7 @@ We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipelin
 
 [Research paper: MM-KWS](http://zhiyongchenGREAT.github.io/files/2406.07310v1.pdf)
 
-[MM-KWS: Project Web-site](https://github.com/zhiyongchenGREAT/MM-KWS)
+[MM-KWS: Project Website](https://github.com/zhiyongchenGREAT/MM-KWS)
 
 **SRPL: Open-set Speaker Identification with Reciprocal Points**
 
