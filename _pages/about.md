@@ -98,10 +98,6 @@ Speaker recognition, the process of automatically identifying a speaker based on
 **Research on Domain Roubust Speaker Recognition**
 Speaker recognition technology has advanced significantly, achieving high accuracy in controlled settings. However, in real-world applications, systems often face challenges due to domain variability—differences in recording environments, channels, languages, and demographic characteristics. Domain robust speaker recognition focuses on developing models that can maintain performance across these diverse conditions.
 
-[Research paper: DA-Spk]([Supervised Imbalanced Multi-domain Adaptation for Text-independent Speaker Verification](https://www.researchgate.net/profile/Zhiyong-Chen-27/publication/348413798_Supervised_Imbalanced_Multi-domain_Adaptation_for_Text-independent_Speaker_Verification/links/621593d5ba15e05e2ea21019/Supervised-Imbalanced-Multi-domain-Adaptation-for-Text-independent-Speaker-Verification.pdf)) 
-
-[Research paper: DA-Spk]([Supervised Imbalanced Multi-domain Adaptation for Text-independent Speaker Verification](https://www.researchgate.net/profile/Zhiyong-Chen-27/publication/348413798_Supervised_Imbalanced_Multi-domain_Adaptation_for_Text-independent_Speaker_Verification/links/621593d5ba15e05e2ea21019/Supervised-Imbalanced-Multi-domain-Adaptation-for-Text-independent-Speaker-Verification.pdf)) 
-
 [Research paper: DA-Spk](https://www.researchgate.net/profile/Zhiyong-Chen-27/publication/348413798_Supervised_Imbalanced_Multi-domain_Adaptation_for_Text-independent_Speaker_Verification/links/621593d5ba15e05e2ea21019/Supervised-Imbalanced-Multi-domain-Adaptation-for-Text-independent-Speaker-Verification.pdf)
 
 [Research paper: AM-Spk](https://arxiv.org/pdf/1908.03990)
