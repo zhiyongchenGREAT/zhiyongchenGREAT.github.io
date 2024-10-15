@@ -100,7 +100,7 @@ Speaker recognition technology has advanced significantly, achieving high accura
 
 [Research paper: DA-Spk](https://www.researchgate.net/profile/Zhiyong-Chen-27/publication/348413798_Supervised_Imbalanced_Multi-domain_Adaptation_for_Text-independent_Speaker_Verification/links/621593d5ba15e05e2ea21019/Supervised-Imbalanced-Multi-domain-Adaptation-for-Text-independent-Speaker-Verification.pdf)
 
-[Research paper: AM-Spk](https://arxiv.org/pdf/1908.03990)
+[Research paper: AM-Spk](https://ieeexplore.ieee.org/abstract/document/9023165)
 
 [Research paper: Triplet-Spk](https://ieeexplore.ieee.org/abstract/document/9023253)
 
