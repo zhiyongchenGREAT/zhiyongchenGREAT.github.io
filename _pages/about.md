@@ -11,10 +11,19 @@ redirect_from:
 
 About me
 ======
-As a current third year PhD student, I have the honor of being guided by Professor Shugong Xu, a distinguished IEEE Fellow (https://www.researchgate.net/profile/Shugong-Xu-2). My research is deeply rooted in the field of speech technology, encompassing speaker recognition, keyword recognition, speech synthesis, zero-shot voice cloning, federated learning, transfer learning, and few-shot learning. Presently, my active research interests include exploring audio large models, speech content synthesis, and multi-modal learning. I possess a profound interest in the applications and development trends of artificial intelligence technologies within the speech and audio domain.
+As a current PhD student, I have the honor of being guided by Professor Shugong Xu, a distinguished IEEE Fellow (https://www.researchgate.net/profile/Shugong-Xu-2). My research is deeply rooted in the field of speech technology, encompassing speaker recognition, keyword recognition, speech synthesis, zero-shot voice cloning, federated learning, transfer learning, and few-shot learning. Presently, my active research interests include exploring audio foundation models, speech synthesis, and multi-modal learning theory. I possess a profound interest in the applications and development trends of machine learning technologies within the speech and audio domain.
 
 My Active Research Projects
 --------
+**StableTTS: Towards Fast Denoising Acoustic Decoder for Text to Speech Synthesis with Consistency Flow Matching**
+
+Current state-of-the-art text-to-speech (TTS) systems predominantly utilize denoising-based acoustic decoders, which are known for their superior performance. In this study, we introduce an efficient TTS system that incorporates Consistency Flow Matching denoising training and a Diffusion Transformer (DiT) block. This training approach not only significantly enhances the cost-efficiency and operational efficiency of flow matching blocks in existing systems but also maintains high performance levels. Additionally, the DiT block, which aligns with the latest advancements in denoising approaches, simplifies the training process. Our comprehensive evaluations, conducted on an in-domain dataset and against various denoising-based TTS systems, affirm the denoising efficiency for our proposed system.
+<p align="center">
+  <img src="http://zhiyongchenGREAT.github.io/images/stable.png" alt="stable" width="50%" />
+</p>
+
+Paper Link: Coming soon
+
 **ZS-TTS/Voice Cloning and Synthesis: Optimizing Feature Fusion for Improved Zero-shot Adaptation in Text-to-Speech Synthesis**
 
 A primary challenge in VC is maintaining speech quality and speaker similarity with limited reference data for a specific speaker. However, existing VC systems often rely on naive combinations of embedded speaker vectors for speaker control, which compromises the capture of speaking style, voice print, and semantic accuracy. To overcome this, we introduce the Two-branch Speaker Control Module (TSCM), an novel and highly adaptable voice cloning module designed to precisely processing speaker or style control for a target speaker. Our method uses an advanced fusion of local-level features from a Gated Convolutional Network (GCN) and utterance-level features from a Gated Recurrent Unit (GRU) to enhance speaker control. We demonstrate the effectiveness of TSCM by integrating it into advanced TTS systems like FastSpeech 2 and VITS architectures, significantly optimizing their performance. Experimental results show that TSCM enables accurate voice cloning for a target speaker with minimal data through both zero-shot or few-shot fine-tuning of pre-trained TTS models. Furthermore, our TSCM based VITS (TSCM-VITS) showcases superior performance in zero-shot scenarios compared to existing state-of-the-art VC systems, even with basic dataset configurations. Our method's superiority is validated through comprehensive subjective and objective evaluations.
