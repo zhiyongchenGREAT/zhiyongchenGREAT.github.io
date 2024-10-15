@@ -118,6 +118,8 @@ Publications
 
 *Enhancing Open-Set Speaker Identification through Rapid Tuning with Speaker Reciprocal Points and Negative Samples*, IEEE SLT2024. **Zhiyong Chen**, Zhiqi Ai, Xinnuo Li, Shugong Xu
 
+*StableTTS: Towards Fast Denoising Acoustic Decoder for Text to Speech Synthesis with Consistency Flow Matching*, IEEE ICASSP25. **Zhiyong Chen**, Xinnuo Li, Shugong Xu (In Peer Review)
+
 *Personalized User-Defined Keyword Spotting in Household Environments: A Text-Audio Multi-Modality Approach*, Speech Communication. Zhiqi Ai, **Zhiyong Chen**, Xinnuo Li, Shugong Xu (In Peer Review)
 
 *StyleFusion-TTS: Multimodal Style-control and Enhanced Feature Fusion for Zero-shot Text-to-speech Synthesis*, PRCV 2024. **Zhiyong Chen**, Zhiqi Ai, Xinnuo Li, Shugong Xu
