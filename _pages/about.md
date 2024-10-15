@@ -44,11 +44,11 @@ We introduce StyleFusion-TTS, a prompt and/or audio ref- erenced, style- and spe
   <img src="http://zhiyongchenGREAT.github.io/images/style_fusion.png" alt="style_fusion" width="50%" />
 </p>
 
-[Research paper: StyleFusion](http://zhiyongchenGREAT.github.io/files/StyleTTS_PRCV24-11.pdf)
+[Research paper: StyleFusion](https://arxiv.org/pdf/2409.15741)
 
 [Project DEMO Website](https://srplplus.github.io/StyleFusionTTS-demo/) 
 
-**MM-KWS: Personalized User-Defined Keyword Spotting and Open-set Speaker Identification in Household Environments**
+**Personalized User-Defined Keyword Spotting and Open-set Speaker Identification in Household Environments**
 
 We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipeline specifically designed for enhancing household environments by integrating user-defined keyword spotting (KWS) with open-set speaker identification (SID) into a cascading dual sub-system structure. For KWS, we present multi-modal user-defined keyword spotting (M-UDKWS), a novel approach that leverages multi-modal prompts for text-audio multimodal enrollment, and optimizes phonetic and semantic feature extraction to synergize text and audio modalities. This innovation not only stabilizes detection by reducing mismatches between query audio and support text embeddings but also excels in handling potentially confusing keywords. For open-set SID, we adopt advanced open-set learning techniques to propose speaker reciprocal points learning (SRPL), addressing the significant challenge of being aware of unknown speakers without compromising known speaker identification. To boost the overall performance of the PUKWS pipeline, we employ a cutting-edge data augmentation strategy that includes hard negative mining, rule-based procedures, GPT, and zero-shot voice cloning, thereby enhancing both M-UDKWS and SRPL components. Through exhaustive evaluations on various datasets and testing scenarios, we demonstrate the efficacy of our methods.
 
@@ -67,7 +67,7 @@ In this paper, we propose MM-KWS, a novel approach to user-defined keyword spott
   <img src="http://zhiyongchenGREAT.github.io/images/mmkws.png" alt="mmkws" width="50%" />
 </p>
 
-[Research paper: MM-KWS](http://zhiyongchenGREAT.github.io/files/2406.07310v1.pdf)
+[Research paper: MM-KWS](https://arxiv.org/pdf/2406.07310)
 
 [Project Website and Code Repo](https://github.com/zhiyongchenGREAT/MM-KWS)
 
@@ -79,7 +79,7 @@ We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipelin
   <img src="http://zhiyongchenGREAT.github.io/images/srpl.png" alt="srpl" width="50%" />
 </p>
 
-[Research paper: Open-set Speaker Recognition](http://zhiyongchenGREAT.github.io/files/SRPL_slt24-5.pdf)
+[Research paper: Open-set Speaker Recognition](https://arxiv.org/pdf/2409.15742)
 
 [Project Website and Code Repo](https://srplplus.github.io) 
 
