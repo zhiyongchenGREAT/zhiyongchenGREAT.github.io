@@ -32,9 +32,9 @@ A primary challenge in VC is maintaining speech quality and speaker similarity w
   <img src="http://zhiyongchenGREAT.github.io/images/tscm.png" alt="TSCM" width="50%" />
 </p>
 
-[Project Website](https://great-research.github.io/tsct-tts-demo/) 
-
 [Research paper: TSCM-VITS](http://zhiyongchenGREAT.github.io/files/s13636-024-00351-9.pdf)
+
+[Project DEMO Website](https://great-research.github.io/tsct-tts-demo/) 
 
 **Emotional Style Control TTS: StyleFusion TTS--Multimodal Style-control and Enhanced Feature Fusion for Zero-shot Text-to-speech Synthesis**
 
@@ -44,9 +44,9 @@ We introduce StyleFusion-TTS, a prompt and/or audio ref- erenced, style- and spe
   <img src="http://zhiyongchenGREAT.github.io/images/style_fusion.png" alt="style_fusion" width="50%" />
 </p>
 
-[Project Website](https://srplplus.github.io/StyleFusionTTS-demo/) 
-
 [Research paper: StyleFusion](http://zhiyongchenGREAT.github.io/files/StyleTTS_PRCV24-11.pdf)
+
+[Project DEMO Website](https://srplplus.github.io/StyleFusionTTS-demo/) 
 
 **MM-KWS: Personalized User-Defined Keyword Spotting and Open-set Speaker Identification in Household Environments**
 
@@ -69,7 +69,7 @@ In this paper, we propose MM-KWS, a novel approach to user-defined keyword spott
 
 [Research paper: MM-KWS](http://zhiyongchenGREAT.github.io/files/2406.07310v1.pdf)
 
-[MM-KWS: Project Website](https://github.com/zhiyongchenGREAT/MM-KWS)
+[Project Website and Code Repo](https://github.com/zhiyongchenGREAT/MM-KWS)
 
 **SRPL: Open-set Speaker Identification with Reciprocal Points**
 
@@ -81,7 +81,7 @@ We introduce Personalized User-Defined Keyword Spotting (PUKWS), a novel pipelin
 
 [Research paper: Open-set Speaker Recognition](http://zhiyongchenGREAT.github.io/files/SRPL_slt24-5.pdf)
 
-[SRPL: Project Website](https://srplplus.github.io) 
+[Project Website and Code Repo](https://srplplus.github.io) 
 
 **Learning Domain-Heterogeneous Speaker Recognition Systems with Personalized Continual Federated Learning**
 
@@ -93,7 +93,7 @@ Speaker recognition, the process of automatically identifying a speaker based on
 
 [Research paper: FedSpeaker](http://zhiyongchenGREAT.github.io/files/FedSpk.pdf) 
 
-[FedSPK: Project Website](https://github.com/zhiyongchenGREAT/FedSPK) 
+[Project Website and Code Repo](https://github.com/zhiyongchenGREAT/FedSPK) 
 
 **Research on Domain Roubust Speaker Recognition**
 Speaker recognition technology has advanced significantly, achieving high accuracy in controlled settings. However, in real-world applications, systems often face challenges due to domain variability—differences in recording environments, channels, languages, and demographic characteristics. Domain robust speaker recognition focuses on developing models that can maintain performance across these diverse conditions.
