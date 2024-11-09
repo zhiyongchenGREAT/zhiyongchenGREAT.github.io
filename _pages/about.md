@@ -17,12 +17,28 @@ My Active Research Projects
 --------
 **StableTTS: Towards Fast Denoising Acoustic Decoder for Text to Speech Synthesis with Consistency Flow Matching**
 
-Current state-of-the-art text-to-speech (TTS) systems predominantly utilize denoising-based acoustic decoders, which are known for their superior performance. In this study, we introduce an efficient TTS system that incorporates Consistency Flow Matching denoising training and a Diffusion Transformer (DiT) block. This training approach not only significantly enhances the cost-efficiency and operational efficiency of flow matching blocks in existing systems but also maintains high performance levels. Additionally, the DiT block, which aligns with the latest advancements in denoising approaches, simplifies the training process. Our comprehensive evaluations, conducted on an in-domain dataset and against various denoising-based TTS systems, affirm the denoising efficiency for our proposed system.
+Current state-of-the-art text-to-speech (TTS) sys-
+tems predominantly utilize denoising-based acoustic decoders
+with language models (LLMs) or with non-autoregressive front-
+ends, known for their superior performance in generating high-
+fidelity spectrum. In this study, we introduce an efficient TTS
+system that incorporates Consistency Flow Matching denoising
+training. This training approach significantly enhances the train-
+ing efficiency and operational performance of denoising-based
+acoustic decoders in existing TTS or voice conversion systems,
+with no additional cost in the training process—a free lunch.
+To efficiently compare with other denoising strategies, we align
+with the latest advancements in the implementation of non-
+autoregressive-based TTS systems and build an efficient DiT-
+based TTS architecture. Our comprehensive evaluations against
+various denoising-based methods affirm the efficiency of our
+proposed system.
 <p align="center">
   <img src="http://zhiyongchenGREAT.github.io/images/stable.png" alt="stable" width="50%" />
 </p>
 
-Paper Link: Coming soon
+[Project Page](https://zhiyongchengreat.github.io/stabletts_ccfm/)
+[Research paper: StableTTS](http://zhiyongchenGREAT.github.io/files/StableTTS-12.pdf)
 
 **ZS-TTS/Voice Cloning and Synthesis: Optimizing Feature Fusion for Improved Zero-shot Adaptation in Text-to-Speech Synthesis**
 
